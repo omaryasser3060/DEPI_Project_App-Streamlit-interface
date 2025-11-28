@@ -9,3 +9,4 @@ kaleido
 ultralytics
 torch
 python-dotenv
+reportlab
