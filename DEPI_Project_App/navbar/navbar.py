@@ -38,3 +38,4 @@ def render_navbar():
 
     </div>
     """, unsafe_allow_html=True)
+
