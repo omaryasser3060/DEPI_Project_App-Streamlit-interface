@@ -28,10 +28,12 @@ def render_navbar():
             </a>
         </div>
         <div class="navbar-links">
-            <a href="/" target="_self">Home</a> 
+            <a href="/" target="_self">Home</a>
             <a href="/Image_Classification" target="_self">Classification</a>
             <a href="/Object_Detection" target="_self">Detection</a>
             <a href="/Realtime_Detection" target="_self" class="rtd-link">RTD <span class="badge-new">BETA</span></a>
+            <a href="/API_Playground" target="_self">API</a>
+            <a href="/Car_Model_Inspector" target="_self">Cars</a>
         </div>
 
     </div>
