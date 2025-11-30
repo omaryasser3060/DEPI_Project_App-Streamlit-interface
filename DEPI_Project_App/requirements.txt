@@ -1,0 +1,12 @@
+streamlit
+opencv-python-headless
+Pillow
+numpy
+requests
+matplotlib
+plotly
+kaleido
+ultralytics
+torch
+python-dotenv
+reportlab
